@@ -1,6 +1,6 @@
-# Linear Models for Classification and Regression
+# Machine Learning
 
-<img src="https://i.imgur.com/Q59tXx6.png" width="400">
+<img src="https://i.imgur.com/Q59tXx6.png" width="500">
 
 In this repository we find different Machine learning activities performed in sintetic datasets. They were developed on the unit Machine Learning on the Master of Data Science from Monash University. Some of the topics covered were the following:
 
@@ -33,23 +33,28 @@ In this repository we find different Machine learning activities performed in si
 
 - `Neural Network_ Perceptron.ipynb:` We develop a Neural Network from scratch to make classifications on a Radial dataset. We compare the results with a perceptron (linear classification).  
 
-
 ### Autoencoder - Self-taught Learning
 
 - `Self-Taught Learning_Autoencoder.ipynb:` We use H2O to create autoencoders. The goal is to help in the classification process of a Neural Network extracting information from the part of the dataset that has unlabeled data. 
 
-
 ## Interesting Visualisations
 
-
 **Prediction Uncertainty with Bootstrapping**
+\
+\
 ![Imgur](https://i.imgur.com/nzNMkiG.png)
 
 **Ridge Regression Error**
+\
+\
 ![Imgur](https://i.imgur.com/kCzdXMB.png)
 
 **Clustering documents with EM**
+\
+\
 ![Imgur](https://i.imgur.com/Vq20Y62.png)
 
 **Neural Networks Capacity to classify non-linear data**
+\
+\
 ![Imgur](https://i.imgur.com/YpdeyOA.png)
