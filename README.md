@@ -39,22 +39,4 @@ In this repository we find different Machine learning activities performed in si
 
 ## Interesting Visualisations
 
-**Prediction Uncertainty with Bootstrapping**
-\
-\
-![Imgur](https://i.imgur.com/nzNMkiG.png)
-
-**Ridge Regression Error**
-\
-\
-![Imgur](https://i.imgur.com/kCzdXMB.png)
-
-**Clustering documents with EM**
-\
-\
-![Imgur](https://i.imgur.com/Vq20Y62.png)
-
-**Neural Networks Capacity to classify non-linear data**
-\
-\
-![Imgur](https://i.imgur.com/YpdeyOA.png)
+![Imgur](https://i.imgur.com/XfCBh6N.png)
